@@ -32,8 +32,16 @@ https://github.com/rsomu/apclog
 
 ## Its now available to use in Kubernetes manifest 
 
+### for example 
 
+### Create pod yaml file
 
+<img width="658" alt="Screenshot 2024-01-09 at 2 41 46 PM" src="https://github.com/viveksaini2612/watermelon/assets/51254973/c9d4c0a0-e4de-4a12-974d-70ead40cae72">
 
+### Create with kubectl create -f pod.yaml command
+
+<img width="658" alt="Screenshot 2024-01-09 at 2 42 02 PM" src="https://github.com/viveksaini2612/watermelon/assets/51254973/ade0b665-f4ba-4936-b07c-a43885e4e4d7">
+
+## Thankyou
 
 
