@@ -28,7 +28,7 @@ https://github.com/rsomu/apclog
 <img width="1439" alt="Screenshot 2024-01-09 at 1 06 23 PM" src="https://github.com/viveksaini2612/watermelon/assets/51254973/803838fe-e42d-48e3-bc19-369ec84964b1">
 
 
-### push repo to docker hub
+### push image to docker hub
 
 ## Its now available to use in Kubernetes manifest 
 
